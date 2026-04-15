@@ -1,3 +1,7 @@
+---
+name: programme-audit
+description: Audit coaching programmes for session attendance, compliance (consecutive attendance), graduation, sales revenue, PIF/PP split, cross-account Business Coaching lookups, and territory breakdown using GHL compound tag filters.
+---
 # Programme Audit
 
 **Version:** 1.0.0

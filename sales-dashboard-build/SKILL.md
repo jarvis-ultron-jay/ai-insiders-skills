@@ -1,3 +1,7 @@
+---
+name: sales-dashboard-build
+description: Build a real-time sales dashboard — Next.js frontend on Vercel, Supabase data layer, GHL API sync, Stripe verification. Includes pacing charts, rep leaderboard, programme breakdown, daily progression, and cron automation.
+---
 # Sales Dashboard Build
 
 **Version:** 1.0.0

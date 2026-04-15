@@ -1,3 +1,7 @@
+---
+name: daily-ops-brief
+description: Generate and deliver daily operations briefings with sales data, pacing calculations, programme breakdown, rep leaderboards, and system health. Covers WhatsApp and Slack delivery, voice note TTS option, and formatting rules.
+---
 # Daily Ops Brief
 
 **Version:** 1.0.0

@@ -1,3 +1,7 @@
+---
+name: ai-readiness-assessment
+description: Build an AI readiness assessment tool scoring users across 5 dimensions with time/money savings projections, tier labels, Supabase storage, live Impact Wall scoreboard, and GHL lead capture. Client-side scoring, zero API calls.
+---
 # AI Readiness Assessment
 
 **Version:** 1.0.0

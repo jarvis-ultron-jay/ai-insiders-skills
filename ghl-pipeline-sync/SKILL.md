@@ -1,3 +1,7 @@
+---
+name: ghl-pipeline-sync
+description: GHL API to Supabase pipeline sync with correct pagination, rate limiting, PIF detection via contact tags, stage mapping, and cursor-based crash recovery. Covers all 9 Wild Success sub-accounts.
+---
 # GHL Pipeline Sync
 
 **Version:** 1.0.0

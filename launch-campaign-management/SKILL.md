@@ -1,3 +1,7 @@
+---
+name: launch-campaign-management
+description: End-to-end launch campaign management — pipeline setup, daily syncs, briefs, rep leaderboards, pacing dashboards, and campaign close-out with archival. Covers GHL API, Supabase sync, PIF detection, and all known regressions.
+---
 # Launch Campaign Management
 
 **Version:** 1.0.0
