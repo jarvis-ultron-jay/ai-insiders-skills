@@ -1,8 +1,8 @@
-# 🧠 Wild AI Skills
+# 🧠 AI Insiders Skills
 
-**Curated agent skills for AI-powered operations.**
+**The AI skill warehouse. Built by practitioners, for practitioners.**
 
-A warehouse of OpenClaw-compatible skills used across Wild Success and available for anyone building AI agent workflows.
+OpenClaw-compatible skills for anyone serious about integrating AI into their work and life.
 
 ## What Are Skills?
 
@@ -56,4 +56,4 @@ Skills are added as they're built or curated. Each skill is vetted for security 
 
 ---
 
-*Built by [Wild Success](https://wildsuccess.global) • Powered by [OpenClaw](https://openclaw.ai)*
+*Built by [AI Insiders](https://ai-insiders.ai) • Powered by [OpenClaw](https://openclaw.ai)*
