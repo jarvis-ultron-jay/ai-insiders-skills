@@ -1,0 +1,9 @@
+{
+  "ownerId": "kn732qfbv22he1jqm63xbwq6e980kn8s",
+  "slug": "agent-squad-architecture",
+  "name": "Agent Squad Architecture",
+  "description": "Design, deploy, and manage multi-agent AI squads with defined roles, authority levels, protected files, and escalation paths. Battle-tested methodology from a real 6+ agent production system.",
+  "emoji": "🤖",
+  "category": "AI Agent Development",
+  "version": "1.0.0"
+}

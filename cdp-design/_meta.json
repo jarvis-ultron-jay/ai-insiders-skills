@@ -1,0 +1,9 @@
+{
+  "ownerId": "kn732qfbv22he1jqm63xbwq6e980kn8s",
+  "slug": "cdp-design",
+  "name": "CDP Design",
+  "description": "Design and build a Customer Data Platform using Supabase. Methodology for unifying contacts across CRMs, payment processors, community platforms, and support systems into a single source of truth.",
+  "emoji": "📊",
+  "category": "Data & Analytics",
+  "version": "1.0.0"
+}

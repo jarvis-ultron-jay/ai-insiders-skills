@@ -1,0 +1,9 @@
+{
+  "ownerId": "kn732qfbv22he1jqm63xbwq6e980kn8s",
+  "slug": "agent-memory-architecture",
+  "name": "Agent Memory Architecture",
+  "description": "Design tiered memory systems for AI agents that maintain institutional knowledge across sessions. Build structured memory hierarchies with source-of-truth precedence, regression tracking, decision logs, and maintenance cadences.",
+  "emoji": "🧠",
+  "category": "AI Agent Development",
+  "version": "1.0.0"
+}
